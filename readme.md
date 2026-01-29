@@ -4,6 +4,7 @@
   <p>Get dynamically generated GitHub stats on your READMEs!</p>
 </div>
 
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
     <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
